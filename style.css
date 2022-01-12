@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/41-413260_vaporwave-wallpapers-7-synthwave-background-city.jpg");
+    color: pink;
+}
+
+.login_div1 , .login_div2 {
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        background-repeat: cover;
+}
